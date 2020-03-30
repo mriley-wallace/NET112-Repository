@@ -1,1 +1,2 @@
-# NET112-Repository
+# NET112-Practicals
+C++ assembly programs for NET112 module
